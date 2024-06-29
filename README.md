@@ -1,5 +1,4 @@
-👋 Hi, I’m @toilaMif
-print("Trung")
+😒toilaMif
 
 <!---
 toilaMif/toilaMif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
